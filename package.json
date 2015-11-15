@@ -4,7 +4,7 @@
   "dependencies": {
     "camel": "latest",
     "underscore": "latest",
-    "zappajs": "latest",
+    "zappajs": "0.4.22",
     "webworker": "latest"
   }
 }
